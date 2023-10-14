@@ -1,1 +1,1 @@
-# jagriti_cv_maker
+# EKAGRA_cv_maker
